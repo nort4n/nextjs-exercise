@@ -5,7 +5,7 @@ date: '22-04-07'
 image: 'img/md.jpg'
 tags:
   - language
-  - note taking
+  - 'note taking'
 ---
 
 # Mark Down

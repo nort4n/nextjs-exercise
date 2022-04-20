@@ -4,9 +4,9 @@ author: 'Norman Tannhaeuser'
 date: '22-04-07'
 image: 'img/git.png'
 tags:
-  - team work
-  - version management
-  - programming tools
+  - 'team work'
+  - 'version management'
+  - 'programming tools'
 ---
 
 # Git
